@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AshXfire
+- 👀 I’m interested in bot and API coding
+- 🌱 I’m currently learning Javascript
